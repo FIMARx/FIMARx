@@ -14,5 +14,5 @@ _______________
 > - [Discord Server](http://gg.gg/FIMARxDISCORD) <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" weight=20 height=20>
 > ---
 
-> ![FIMARx's github stats](https://github-readme-stats.vercel.app/api/?username=fimarx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+> ![FIMARx's github stats](https://github-readme-stats.vercel.app/api/?username=fimarx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fimarx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
