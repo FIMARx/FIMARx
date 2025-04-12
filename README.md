@@ -1,21 +1,51 @@
-_______________
-> # Hi there 👋
-_______________
-> ### I'm FIMARx and I like to code with CSS and to make custom themes for pages and applications. I code with HTML5 and rarely with JavaScript. Learning C++ and AutoHotkey languages!
-_______________
-### Have a look on my **Social Media**
-> ----
-> - [Twitter](http://gg.gg/FIMARxTWITTER) <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" weight=20 height=20>
-> ----
-> - [YouTube](http://gg.gg/FIMARxYouTube) <img src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" weight=20 height=20>
-> ---
-> - [Instagram](http://gg.gg/FIMARxINSTAGRAM) <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" weight=20 height=20>
-> ----
-> - [Discord Server](http://gg.gg/FIMARxDISCORD) <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" weight=20 height=20>
-> ---
-### Activity
-> - - -
-> ![FIMARx's github stats](https://github-readme-stats.vercel.app/api?username=fimarx&include_all_commits=true)
-> - - -
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fimarx)](https://github.com/anuraghazra/github-readme-stats)
-_______________
+<h1 align="center">Hi there, I'm FIMARx! 👋</h1>
+
+<p align="center">
+  A passionate web developer focused on CSS and custom theme development. Currently working with HTML5 and expanding my knowledge in JavaScript, C++, and AutoHotkey.
+</p>
+
+## 🔧 Technologies & Tools
+- HTML5
+- CSS
+- JavaScript (Learning)
+- C++ (Learning)
+- AutoHotkey (Learning)
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://x.com/fimarxfit" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.youtube.com/FIMARx" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/fimarxfit/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@fimarxfit" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.snapchat.com/add/fimarxfit?share_id=smRoVMbyjRE&locale=en-US" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
+  </a>
+  <a href="https://discord.gg/YbBFXQCRKb" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fimarx&include_all_commits=true&show_icons=true&theme=dracula" alt="FIMARx's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fimarx&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Feel free to connect with me on any of my social platforms!</i>
+</p>
