@@ -9,7 +9,6 @@
 - CSS
 - JavaScript (Learning)
 - C++ (Learning)
-- AutoHotkey (Learning)
 
 ## 🌐 Connect with Me
 
