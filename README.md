@@ -86,13 +86,6 @@ A passionate web developer focused on CSS and custom theme development. Currentl
 
 </div>
 
-## 🏋️‍♂️ Beyond Coding
-- 💪 **Fitness Enthusiast:** 3½ years of gym experience
-- 🤸‍♂️ **Calisthenics:** Specializing in bodyweight exercises
-- 📹 **Content Creator:** Sharing workout tips and tutorials
-- 🎬 **Video Editor:** Creating engaging YouTube content
-- 🍳 **Nutrition:** Passionate about high-protein meal prep
-
 ## 📈 Activity Overview
 
 <div align="center">
