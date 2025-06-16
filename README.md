@@ -33,6 +33,12 @@ A passionate web developer focused on CSS and custom theme development. Currentl
 </a>
 </p>
 
+<div align="center">
+  <a href="https://discord.gg/YbBFXQCRKb">
+    <img src="https://discord.com/api/guilds/1197279316984213522/widget.png?style=banner4" alt="Discord Banner"/>
+  </a>
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
