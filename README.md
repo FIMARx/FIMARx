@@ -1,85 +1,29 @@
-<h1 align="center">Hi there, I'm FIMARx! 👋</h1>
+<h1 align="center">Hi, I'm FIMARx! 👋</h1>
 
 <p align="center">
-A passionate web developer focused on CSS and custom theme development. Currently working with HTML5 and expanding my knowledge in JavaScript, C++.
+  <b>Frontend Developer & Fitness Enthusiast</b><br>
+  I specialize in <b>CSS</b> and <b>custom theme development</b>. Currently expanding my stack with JavaScript and C++, while helping others stay fit through calisthenics.
 </p>
-
-## 🔧 Technologies & Tools
-- HTML5
-- CSS
-- JavaScript (Learning)
-- C++ (Learning)
-
-## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://x.com/fimarxfit" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-</a>
-<a href="https://www.youtube.com/FIMARx" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.instagram.com/fimarxfit/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.tiktok.com/@fimarxfit" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-<a href="https://www.snapchat.com/add/fimarxfit?share_id=smRoVMbyjRE&locale=en-US" target="_blank">
-<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
-</a>
-<a href="https://discord.gg/YbBFXQCRKb" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
+  <a href="#-tech-stack"><strong>Tech Stack</strong></a> ·
+  <a href="#-github-stats"><strong>Stats</strong></a> ·
+  <a href="#-connect-with-me"><strong>Socials</strong></a>
 </p>
 
-<div align="center">
-  <a href="https://discord.gg/YbBFXQCRKb">
-    <img src="https://discord.com/api/guilds/1197279316984213522/widget.png?style=banner4" alt="Discord Banner"/>
-  </a>
-</div>
+---
 
-## 📊 GitHub Statistics
+## 🔭 What I'm Up To
 
-<div align="center">
+I split my time between writing code and building muscle. Here is what I am currently focused on:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fimarx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="FIMARx's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fimarx&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+| 💻 **Coding & Dev** | ⚡ **Fitness & Life** |
+|:--- |:--- |
+| 🌱 **Learning:** Deep diving into `JavaScript` & `C++` | 💪 **Training:** Calisthenics & Bodyweight mastery |
+| 🎨 **Building:** Custom CSS themes for web apps | 🎬 **Creating:** Fitness content & Video editing |
+| 🔧 **Tools:** Git, VS Code, HTML5/CSS3 | 📱 **Social:** Growing the community on Discord |
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fimarx&theme=dracula&hide_border=true" alt="FIMARx's GitHub Streak" />
-
-</div>
-
-## 🎯 What I'm Working On
-- 🌱 **Learning:** JavaScript and C++
-- 🎨 **Creating:** Custom CSS themes and web designs
-- 📱 **Content:** Social media content and fitness tips
-- 💪 **Fitness:** Calisthenics tutorials and workout guides
-- 🎬 **Video Editing:** YouTube content creation
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Replace these with your actual repository names -->
-<a href="https://github.com/fimarx/fimarx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fimarx&repo=fimarx&theme=dracula&hide_border=true" />
-</a>
-
-<!-- Add more repositories here when you have them -->
-<!-- 
-<a href="https://github.com/fimarx/your-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fimarx&repo=your-project&theme=dracula&hide_border=true" />
-</a>
--->
-
-</div>
-
-## 💻 Tech Stack & Skills
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -92,25 +36,51 @@ A passionate web developer focused on CSS and custom theme development. Currentl
 
 </div>
 
-## 📈 Activity Overview
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fimarx&show_icons=true&theme=dracula&hide_border=true" alt="FIMARx's Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fimarx&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fimarx&theme=dracula&hide_border=true" alt="Streak Stats" />
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://discord.gg/YbBFXQCRKb" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://x.com/fimarxfit" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
+<a href="https://www.youtube.com/FIMARx" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.instagram.com/fimarxfit/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.tiktok.com/@fimarxfit" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+
+<br><br>
+
+<a href="https://discord.gg/YbBFXQCRKb">
+  <img src="https://discord.com/api/guilds/1197279316984213522/widget.png?style=banner4" alt="Discord Banner"/>
+</a>
+
+<p>
+  <i>Always open to collaborating on web dev projects or chatting about fitness!</i>
+</p>
+
+</div>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fimarx&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/fimarx?label=Follow&style=social)](https://github.com/fimarx)
-[![GitHub stars](https://img.shields.io/github/stars/fimarx?label=Stars&style=social)](https://github.com/fimarx)
 
 </div>
-
-## 📫 Let's Connect!
-
-<p align="center">
-<strong>Always open to collaborating on interesting projects!</strong><br>
-Whether it's web development, fitness content, or just a friendly chat about coding and calisthenics.
-</p>
-
----
-
-<p align="center">
-<i>⭐ Feel free to star any repositories you find interesting!</i>
-</p>
