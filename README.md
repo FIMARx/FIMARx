@@ -1,67 +1,62 @@
-<h1 align="center">Hi, I'm FIMARx! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Frontend Architect & Fitness Disciplinarian</b><br>
-  Crafting high-performance <b>CSS themes</b> and <b>Digital Solutions</b> in Espoo, Finland. 
-</p>
+# Hi, I'm FIMARx! 👋
 
-<p align="center">
-  <a href="#-current-focus"><strong>Current Focus</strong></a> ·
-  <a href="#-tech-stack"><strong>Skills</strong></a> ·
-  <a href="#-stats"><strong>Metrics</strong></a> ·
-  <a href="#-connect"><strong>Socials</strong></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Frontend+Architect;Fitness+Disciplinarian;Building+DigiKaveri;CSS+Theme+Specialist" alt="Typing SVG" />
+
+<p>
+  Crafting high-performance <b>CSS themes</b> and <b>Digital Solutions</b> in Espoo, Finland.
 </p>
 
 ---
 
 ## 🚀 Current Focus: DigiKaveri
 
-I am currently building **DigiKaveri**, a tech-support initiative focused on bridging the digital gap for seniors and everyday users. 
+**Bridging the digital gap for seniors and everyday users.**
 
-* **The Goal:** Providing accessible, remote IT support (Network, Printers, UI/UX optimization).
-* **The Tech:** Lightweight HTML/CSS, TeamViewer integration, and user-centric documentation.
+**The Goal:** Accessible, remote IT support (Network, Printers, UI/UX).
+
+**The Tech:** Lightweight HTML/CSS & TeamViewer integration.
 
 ---
 
 ## 🔭 What I'm Up To
 
 | 💻 **Coding & Dev** | ⚡ **Fitness & Life** |
-|:--- |:--- |
-| 🛠️ **Building:** DigiKaveri - Digital Buddy Service | 💪 **Training:** Gym & Bodyweight mastery |
-| 🌱 **Learning:** `JavaScript` Logic & `C++` Performance | 🎬 **Creating:** Fitness & Tech-Ed Content |
-| 🎨 **Design:** Custom CSS Frameworks & UI Themes | 📱 **Community:** Leading the FIMARx social platforms |
+| :---: | :---: |
+| 🛠️ **Building:** DigiKaveri Service | 💪 **Training:** Gym & Bodyweight |
+| 🌱 **Learning:** JS & C++ | 🎬 **Creating:** Fitness & Tech Content |
+| 🎨 **Design:** Custom CSS Themes | 📱 **Community:** FIMARx Platforms |
+
+---
 
 ## 🛠 Tech Stack
 
 ### Frontend & Logic
-<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
 
 ### Tools & Workflow
-<p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fimarx&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="FIMARx's Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fimarx&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fimarx&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="FIMARx's Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fimarx&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fimarx&theme=dracula&hide_border=true" alt="Streak Stats" />
-</div>
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fimarx&theme=dracula&hide_border=true" alt="Streak Stats" />
+
+---
 
 <h2 id="connect">🌐 Connect with Me</h2>
-
-<div align="center">
 
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/YbBFXQCRKb)
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/fimarxfit)
@@ -69,7 +64,7 @@ I am currently building **DigiKaveri**, a tech-support initiative focused on bri
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/fimarxfit/)
 [<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@fimarxfit)
 
-<br>
+<br /><br />
 
 [![Discord Banner](https://discord.com/api/guilds/1197279316984213522/widget.png?style=banner4)](https://discord.gg/YbBFXQCRKb)
 
