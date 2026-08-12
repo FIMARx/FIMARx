@@ -83,7 +83,7 @@ Beyond code, I believe in building resilient systems—both digital and physical
 <div align="center">
 
 <h3>Let's build something extraordinary.</h3>
-<a href="https://discord.gg/YbBFXQCRKb">
+<a href="https://discord.gg/jAsVFwPzPN">
   <img src="https://discord.com/api/guilds/1197279316984213522/widget.png?style=banner4" alt="Discord Banner" />
 </a>
 <br><br>
