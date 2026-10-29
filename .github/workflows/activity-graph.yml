@@ -1,0 +1,86 @@
+# Renders the GitHub Readme Activity Graph inside GitHub Actions and publishes it
+# to the `activity-graph` branch, because the public Vercel instance
+# (github-readme-activity-graph.vercel.app) has been disabled and returns HTTP 402.
+name: Activity graph
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - ".github/workflows/activity-graph.yml" # runs once as soon as this file is committed
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the graph generator
+        uses: actions/checkout@v4
+        with:
+          repository: Ashutosh00710/github-readme-activity-graph
+          ref: 0962e9461de815933d462e8b98c7ce566cada8fb # pinned so upstream changes can't break this
+          path: generator
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: generator/package-lock.json
+
+      - name: Build the generator
+        working-directory: generator
+        run: |
+          npm ci --no-audit --no-fund
+          npm run build
+
+      - name: Render the graph
+        working-directory: generator
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PORT: "5100"
+          GRAPH_QUERY: "bg_color=00000000&color=a6a6a6&line=7289DA&point=ffffff&area=true&hide_border=true"
+        run: |
+          node dist/main.js > server.log 2>&1 &
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:5100/ > /dev/null && break
+            sleep 1
+          done
+
+          mkdir -p ../out
+          url="http://localhost:5100/graph?username=${{ github.repository_owner }}&${GRAPH_QUERY}"
+          for attempt in 1 2 3 4 5; do
+            # The server answers 200 even on failure (with an error card), so check for the chart line itself.
+            if curl -sf "$url" -o ../out/activity-graph.svg && grep -q 'class="ct-line' ../out/activity-graph.svg; then
+              echo "Graph rendered."
+              exit 0
+            fi
+            echo "Attempt $attempt didn't produce a graph, retrying in 5s..."
+            sleep 5
+          done
+
+          echo "::error::The activity graph did not render."
+          cat server.log
+          head -c 800 ../out/activity-graph.svg 2>/dev/null || true
+          exit 1
+
+      - name: Publish to the activity-graph branch
+        working-directory: out
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git init -q -b activity-graph
+          git add activity-graph.svg
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Update activity graph"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" activity-graph
