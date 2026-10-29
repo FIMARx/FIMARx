@@ -1,134 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7289DA&height=220&section=header&text=Chatani%20(FIMARx)&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=IT%20Technical%20Specialist%20-%20Founder%20and%20Lead%20Architect%20at%20DigiKaveri&descAlignY=55&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7289DA&height=200&section=header&text=Chatani%20(FIMARx)&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Founder%2C%20DigiKaveri%20%C2%B7%20IT%20Technical%20Specialist&descSize=18&descAlignY=56" alt="Chatani (FIMARx) — Founder of DigiKaveri and IT Technical Specialist" width="100%" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7289DA&center=true&vCenter=true&width=650&lines=Building+reliable+infrastructure.;Automating+the+tedious+stuff.;Making+tech+actually+work+for+people.;Based+in+Espoo,+Finland." alt="Typing SVG" />
-  </a>
-</p>
+**Building dependable technology for people and businesses, from enterprise infrastructure to the company I founded.**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/a-chatani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://digikaveri.com/"><img src="https://img.shields.io/badge/DigiKaveri-F38020?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.instagram.com/fimarxfit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/FIMARx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
+Espoo, Finland
+
+<a href="https://www.linkedin.com/in/a-chatani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://digikaveri.com/"><img src="https://img.shields.io/badge/DigiKaveri-F38020?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DigiKaveri website" /></a>
+<a href="https://discord.gg/jAsVFwPzPN"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
----
+## About
 
-<h3 align="center">🚀 About Me</h3>
+I'm the founder of **[DigiKaveri](https://digikaveri.com/)**, an IT support company serving homes, seniors and small businesses across the Helsinki region, and an IT Technical Specialist at **Lyngsoe Systems**, where I keep enterprise logistics systems running.
 
-<p align="center">
-I’m a 24-year-old IT Technical Specialist and the founder of DigiKaveri. I studied Software Engineering and Network Infrastructure at Omnia, and these days I spend my time managing cloud environments, writing automation scripts, and developing functional web apps. I enjoy taking complex, messy problems and turning them into systems that just run quietly and efficiently in the background.<br><br>
-To me, good engineering isn't just about code. Whether I'm training calisthenics, diagnosing electrical issues on a car, or architecting a distributed backend, the core principle is the same: build a strong foundation, stay consistent, and keep optimizing. I try to bring that practical, Stoic mindset to every project I take on.
-</p>
+At DigiKaveri I lead both the business and the technology: the service model, the brand, and the operations platform the team runs on every day. My background is in software engineering and network infrastructure (Omnia), and my approach is the same in every role: build a strong foundation, make it secure by default, and keep it running quietly in the background.
 
-<br>
+## Roles
 
-<h3 align="center">⚡ What I'm up to right now</h3>
+**Founder · [DigiKaveri](https://digikaveri.com/)** · Novarix Solutions, Espoo<br>
+*Inhimillistä, luotettavaa ja selkokielistä IT-tukea* (human, reliable, plain-language IT support)
+
+- Built a service people can trust: on-site help across Espoo, Helsinki, Vantaa and Kauniainen, secure remote support nationwide, and dedicated support for seniors and their families.
+- Set a clear customer promise: no fix, no fee, with labour eligible for Finland's 35% household tax deduction (kotitalousvähennys).
+- Lead product and engineering for the company's in-house operations platform.
+
+**IT Technical Specialist · Lyngsoe Systems**
+
+- Keep enterprise logistics systems and IT infrastructure secure, stable and running day to day.
+
+## Selected Work
+
+### DigiKaveri Operations Platform · *private*
+
+The platform DigiKaveri runs on, covering the whole customer journey from first contact to paid invoice. I architected it and lead its development.
+
+- **Customer experience:** a bilingual (Finnish / English) website with an instant price and distance estimator, spam-protected contact and call-back requests, and a customer feedback survey.
+- **Operations:** an installable web app for the team covering service requests, scheduling with route planning, customer and device records with warranty checks, maintenance contracts, team chat and a configurable dashboard.
+- **Finance:** invoices, credit notes and receipts with Finnish reference numbers and the household tax deduction breakdown, plus bank statement import and payment matching.
+- **Automation:** serverless background jobs for push notifications, reminders, recurring maintenance visits, daily summaries and scheduled backups.
+- **Security & privacy:** mandatory two-factor login for staff, database-level access control, a strict content security policy and GDPR-compliant data handling.
+- **Quality:** a one-command verification pipeline with unit, end-to-end, accessibility and cross-browser tests (Chromium and WebKit) on phones, tablets and laptops.
+
+> The source code is private to protect DigiKaveri's intellectual property. I'm happy to walk through the architecture and engineering decisions in conversation.
+
+## How I Work
+
+- **Reliability first.** The best systems run quietly in the background.
+- **Plain language.** Technology should empower people, not overwhelm them.
+- **Secure by default.** Security and privacy are built in from day one, not added later.
+- **Consistency compounds.** Build a strong foundation, stay consistent, keep optimizing.
+
+## Toolkit
+
+| Area | Tools |
+|:--|:--|
+| Cloud & edge | Cloudflare (Workers, DNS), Microsoft Azure, Linux, Google Workspace |
+| Data | PostgreSQL / Supabase, Microsoft SQL Server, Oracle |
+| Languages | JavaScript (ES modules), Python, PowerShell, C#, C++, PHP, HTML, CSS |
+| Engineering | Vite, Git, GitHub Actions, Playwright, axe-core |
+| AI & media | Google AI Studio, Claude, Gemini, DaVinci Resolve |
+
+Currently exploring automation pipelines that pair Google AI Studio with custom Python parsing. Outside work: calisthenics, long-distance cycling and hands-on car repairs.
+
+## GitHub Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td>🔭 <b>Building</b></td>
-      <td>Expanding the scope of <a href="https://digikaveri.com/">DigiKaveri</a> to make enterprise-grade tech accessible for everyday users.</td>
-    </tr>
-    <tr>
-      <td>🔧 <b>Tinkering</b></td>
-      <td>Maintaining and fixing cars the DIY way—handling everything from routine maintenance to hands-on mechanical repairs.</td>
-    </tr>
-    <tr>
-      <td>🌱 <b>Learning</b></td>
-      <td>Advanced automation workflows combining Google AI Studio and custom Python parsing.</td>
-    </tr>
-    <tr>
-      <td>🏃‍♂️ <b>Offline</b></td>
-      <td>Focusing on calisthenics compound lifts and long-distance cycling.</td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=FIMARx&theme=transparent&hide_border=true&title_color=7289DA&text_color=a6a6a6&icon_color=7289DA&ring=7289DA" alt="GitHub Streak" />
-  
+  <img src="https://streak-stats.demolab.com/?user=FIMARx&theme=transparent&hide_border=true&title_color=7289DA&text_color=a6a6a6&icon_color=7289DA&ring=7289DA" alt="GitHub streak stats for FIMARx" />
   <br><br>
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FIMARx&bg_color=transparent&color=a6a6a6&line=7289DA&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/FIMARx/FIMARx/activity-graph/activity-graph.svg" alt="GitHub contribution activity graph for FIMARx" width="100%" />
 </div>
 
-<br>
-
-<h3 align="center">🏢 What I Do</h3>
-
-**IT Technical Specialist @ Lyngsoe Systems** *(Primary)*
-*Keeping enterprise logistics systems and IT infrastructure running securely and efficiently day-to-day.*
-
-**Founder & Lead Architect @ [DigiKaveri](https://digikaveri.com/)** *(Venture)*
-*I started DigiKaveri to make reliable, modern IT solutions accessible to everyday people and businesses.*
-* 🏗️ **Architecture:** Deploying fast, distributed systems using Cloudflare edge networks so things load instantly, wherever you are.
-* ⚡ **Frontend:** Building clean, dependency-free interfaces (pure HTML/CSS/JS) because speed and accessibility actually matter.
-* 🤖 **Automation:** Writing Python and PowerShell scripts to automate repetitive workflows, parse databases, and hooking up Google AI Studio to handle the heavy lifting for business operations.
-
-<br>
+<hr>
 
 <div align="center">
 
-### ⚙️ My Toolkit
-*The tech I use to build, automate, and scale.*
+*"Building resilient systems and a resilient mindset."*
 
-<br>
-
-<b>☁️ Cloud & Infrastructure</b><br>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-<br><br>
-
-<b>🗄️ Backend, Automation & Scripting</b><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
-<br><br>
-
-<b>💻 Core Software Engineering</b><br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<br><br>
-
-<b>🤖 AI, Media & DevOps</b><br>
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-<img src="https://img.shields.io/badge/DaVinci_Resolve-9055FD?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h3>Let's build something extraordinary.</h3>
-<a href="https://discord.gg/jAsVFwPzPN">
-  <img src="https://discord.com/api/guilds/1197279316984213522/widget.png?style=banner4" alt="Discord Banner" />
-</a>
-<br><br>
-<p><i>"Building resilient systems and a resilient mindset."</i></p>
-<img src="https://komarev.com/ghpvc/?username=FIMARx&color=7289DA&style=flat-square&label=Profile+Views" alt="Profile Views" />
+[LinkedIn](https://www.linkedin.com/in/a-chatani/) · [DigiKaveri](https://digikaveri.com/) · [Discord](https://discord.gg/jAsVFwPzPN) · [Instagram](https://www.instagram.com/fimarxfit/) · [YouTube](https://www.youtube.com/FIMARx)
 
 </div>
