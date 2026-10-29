@@ -68,7 +68,11 @@ Currently exploring automation pipelines that pair Google AI Studio with custom 
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FIMARx&theme=transparent&hide_border=true&title_color=7289DA&text_color=a6a6a6&icon_color=7289DA&ring=7289DA" alt="GitHub streak stats for FIMARx" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIMARx/FIMARx/profile-3d/profile-3d-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIMARx/FIMARx/profile-3d/profile-3d-light.svg" />
+    <img src="https://raw.githubusercontent.com/FIMARx/FIMARx/profile-3d/profile-3d-light.svg" alt="3D contribution calendar for FIMARx" width="100%" />
+  </picture>
   <br><br>
   <img src="https://raw.githubusercontent.com/FIMARx/FIMARx/activity-graph/activity-graph.svg" alt="GitHub contribution activity graph for FIMARx" width="100%" />
 </div>
